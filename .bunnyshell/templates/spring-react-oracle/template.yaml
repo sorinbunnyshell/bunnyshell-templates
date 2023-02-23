@@ -15,5 +15,5 @@ stack:
     - name: React
       version: '18.2'
     - name: Oracle Database
-      version: '21c'
+      version: '21'
 discoverable: true
