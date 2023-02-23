@@ -4,7 +4,7 @@ type: primary
 components:
     -
         kind: Application
-        name: myapp
+        name: myapp-one
         gitRepo: 'https://github.com/sorinbunnyshell/demo-eaas.git'
         gitBranch: master
         gitApplicationPath: /
