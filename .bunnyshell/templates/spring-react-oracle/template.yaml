@@ -1,0 +1,19 @@
+name: Spring Boot (Java) + React + Oracle Database
+description: This app is a CRUD example, composed out of one frontend, one backend service and one database. Its purpose is to illustrate how you can quickly get started with Bunnyshell.
+tags:
+   - java
+   - spring-boot
+   - react
+   - oracle-database
+icons: [ 'java', 'springboot', 'react', 'oracle' ]
+stack:
+  packages:
+    - name: Java
+      version: '19'
+    - name: Spring Boot
+      version: '3.0'
+    - name: React
+      version: '18.2'
+    - name: Oracle Database
+      version: '21c'
+discoverable: true

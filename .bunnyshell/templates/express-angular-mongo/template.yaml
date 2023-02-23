@@ -1,0 +1,19 @@
+name: Express.js (NodeJS) + Angular + PostgreSQL
+description: This app is a CRUD example, composed out of one frontend, one backend service and one database. Its purpose is to illustrate how you can quickly get started with Bunnyshell.
+tags:
+   - nodejs
+   - express
+   - angular
+   - postgres
+icons: [ 'nodejs', 'express', 'angular', 'postgres' ]
+stack:
+  packages:
+    - name: Node.js
+      version: '18'
+    - name: Express.js
+      version: '4.18'
+    - name: Angular
+      version: '14'
+    - name: PostgreSQL
+      version: '15.2'
+discoverable: true

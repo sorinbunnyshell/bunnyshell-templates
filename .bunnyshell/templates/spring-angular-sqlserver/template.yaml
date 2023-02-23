@@ -1,0 +1,19 @@
+name: Spring (Java) + Angular + SQL Server
+description: This app is a CRUD example, composed out of one frontend, one backend service and one database. Its purpose is to illustrate how you can quickly get started with Bunnyshell.
+tags:
+   - java
+   - spring-boot
+   - angular
+   - sql-server
+icons: [ 'java', 'springboot', 'angular', 'sqlserver' ]
+stack:
+  packages:
+    - name: Java
+      version: '19'
+    - name: Spring Boot
+      version: '3.0'
+    - name: Angular
+      version: '14'
+    - name: SQL Server
+      version: '2022'
+discoverable: true

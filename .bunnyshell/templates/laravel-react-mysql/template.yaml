@@ -1,0 +1,19 @@
+name: Laravel (PHP) + React + MySQL
+description: This app is a CRUD example, composed out of one frontend, one backend service and one database. Its purpose is to illustrate how you can quickly get started with Bunnyshell.
+tags:
+   - php
+   - laravel
+   - react
+   - mysql
+icons: [ 'php', 'laravel', 'react', 'mysql' ]
+stack:
+  packages:
+    - name: PHP
+      version: '8.2'
+    - name: Laravel
+      version: '10'
+    - name: React
+      version: '18.2'
+    - name: MySQL
+      version: '8.0'
+discoverable: true

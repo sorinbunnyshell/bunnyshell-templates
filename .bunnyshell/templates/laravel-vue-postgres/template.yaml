@@ -1,0 +1,19 @@
+name: Laravel (PHP) + Vue.js + MySQL
+description: This app is a CRUD example, composed out of one frontend, one backend service and one database. Its purpose is to illustrate how you can quickly get started with Bunnyshell.
+tags:
+   - php
+   - laravel
+   - vue
+   - mysql
+icons: [ 'php', 'laravel', 'vue', 'mysql' ]
+stack:
+  packages:
+    - name: PHP
+      version: '8.2'
+    - name: Laravel
+      version: '10'
+    - name: Vue.js
+      version: '2.7'
+    - name: MySQL
+      version: '8.0'
+discoverable: true
